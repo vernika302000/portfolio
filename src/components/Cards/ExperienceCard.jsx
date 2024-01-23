@@ -174,10 +174,9 @@ const ExperienceCard = ({ experience }) => {
                     </>
                 }
             </Description>
+            <b>Certificate : </b>
             {experience.doc &&
-                <a href={experience.doc} target="new">
-                    <Document src={experience.doc} />
-                </a>
+                <a href={experience.doc} target="new">https://drive.google.com/drive/my-drive</a>
             }
         </Card>
     )
