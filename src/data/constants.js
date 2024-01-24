@@ -257,7 +257,7 @@ export const Bio = {
       member: [
         {
           name: "Vernika Agarwal",
-          img: "http://localhost:3000/static/media/HeroImage.4f1c4586fe5d94597e97.jpg",
+          img: "https://media.licdn.com/dms/image/D5635AQHSw9ZWp8-n4A/profile-framedphoto-shrink_400_400/0/1705928411787?e=1706688000&v=beta&t=W3rYAmhFULW6CqEVN52XNTjCAsh6w8qJzA50O0TrOIE",
           linkedin: "https://www.linkedin.com/in/vernika-agarwal-6b9434203/",
           github: "https://github.com/302001",
         }
@@ -284,7 +284,7 @@ export const Bio = {
       member: [
         {
           name: "Vernika Agarwal",
-          img: "http://localhost:3000/static/media/HeroImage.4f1c4586fe5d94597e97.jpg",
+          img: "https://media.licdn.com/dms/image/D5635AQHSw9ZWp8-n4A/profile-framedphoto-shrink_400_400/0/1705928411787?e=1706688000&v=beta&t=W3rYAmhFULW6CqEVN52XNTjCAsh6w8qJzA50O0TrOIE",
           linkedin: "https://www.linkedin.com/in/vernika-agarwal-6b9434203/",
           github: "https://github.com/302001",
         }
@@ -305,7 +305,7 @@ export const Bio = {
       member: [
         {
           name: "Vernika Agarwal",
-          img: "http://localhost:3000/static/media/HeroImage.4f1c4586fe5d94597e97.jpg",
+          img: "https://media.licdn.com/dms/image/D5635AQHSw9ZWp8-n4A/profile-framedphoto-shrink_400_400/0/1705928411787?e=1706688000&v=beta&t=W3rYAmhFULW6CqEVN52XNTjCAsh6w8qJzA50O0TrOIE",
           linkedin: "https://www.linkedin.com/in/vernika-agarwal-6b9434203/",
           github: "https://github.com/302001",
         }
